@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mitchl-zen
-- 👀 I’m interested in https://common-lisp.net/ and https://www.hackthebox.com/
+- 👀 I’m interested in https://www.hackthebox.com/
 - 🌱 I’m currently learning https://craftinginterpreters.com/
 
 
